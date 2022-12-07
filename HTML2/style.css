@@ -1,0 +1,13 @@
+body{
+
+}
+.meio{
+    width: 95%;
+}
+.art1, .art2, .art3{
+    position: relative;
+    width: 31%;
+    float: left;
+    text-align: center;
+    margin: 1em;
+}
