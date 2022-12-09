@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(47, 79, 79);
+}
+header{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+    text-transform: uppercase;
+}
+nav a:link, nav a:visited{
+    color: blue;
+}
+.txt{
+    position: relative;
+    width: 31%;
+    float: left;
+    text-align: center;
+    margin: 1em;
+    background-color: rgb(160, 160, 160);
+    border-radius: 1em;
+}
